@@ -1,33 +1,32 @@
 .body { 
     margin: 5%;
-    padding: auto;
-    background-image:url(7998116-bela-alta-resolucao-panorama-de-uma-paisagem-pais-do-norte-europeu-com-campos-e-grama-verde-foto.jpg);
+    padding: center;
+    background-color: rgb(254, 246, 100);
     text-align: center;
-
 }
 
  .texto1{
     margin: 1%;
     padding: 25px;
-    background-color: rgb(242, 255, 0);
+    background-color: rgb(255, 149, 0);
 }
 .texto2{
 margin: 1%;
 padding: 10px;
-background-color: rgb(242, 255, 0);
+background-color: rgb(255, 149, 0);
 }
 .texto3{
 margin: 1%;
 padding: 10px;
-background-color: rgb(242, 255, 0);
+background-color: rgb(255, 149, 0);
 }
 .texto4{
 margin: 1%;
 padding: 10px;
-background-color: rgb(242, 255, 0)
+background-color: rgb(255, 149, 0)
 }
 .texto5{
 margin: 1%;
 padding: 10px;
-background-color: rgb(242, 255, 0)
+background-color: rgb(255, 149, 0)
 }
